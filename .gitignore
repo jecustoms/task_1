@@ -4,7 +4,7 @@ tmp/
 # IDE folders
 .DS_Store
 
-# files with _old postfix
+# files with _old and _backup postfix
 *_old
 *_backup
 
