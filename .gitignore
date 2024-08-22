@@ -1,0 +1,12 @@
+# folders
+tmp/
+
+# IDE folders
+.DS_Store
+
+# files with _old postfix
+*_old
+*_backup
+
+# files
+Thumbs.db
